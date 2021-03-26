@@ -2,3 +2,6 @@
 GPU-based Light Field Rendering with CuPy, pyTOFlow
 
 # Prerequisites
+
+## pytorch
+
