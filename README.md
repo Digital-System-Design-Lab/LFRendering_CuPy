@@ -1,9 +1,13 @@
 # LFRendering_CuPy
 GPU-based Light Field Rendering with CuPy, pyTOFlow
 
+
+
 # Prerequisites
 
-# NumPy, Cupy
+
+
+## NumPy, Cupy
 To store and calculate images, NumPy and CuPy modules are used. CuPy is used for calculation in GPU environment.
 
 ## PyTorch
@@ -14,3 +18,4 @@ The part of interpolation is based on pyTOFlow, so we need modules and files in 
 
 
 
+# Options
