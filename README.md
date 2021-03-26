@@ -19,9 +19,9 @@ The part of interpolation is based on pyTOFlow, so we need modules and files in 
 
 
 # Usage
-'''
+```
 python LFRendering_CuPy.py --o path_out.jpg --gpuID 0
-'''
+```
 
 ## Options
 Because there were modifications in pyTOFlow, there are only two options.
