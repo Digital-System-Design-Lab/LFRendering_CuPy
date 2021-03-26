@@ -18,7 +18,13 @@ The part of interpolation is based on pyTOFlow, so we need modules and files in 
 
 
 
-# Options
+# Usage
+'''
+python LFRendering_CuPy.py --o path_out.jpg --gpuID 0
+'''
 
-+ hi
-+ bye
+## Options
+Because there were modifications in pyTOFlow, there are only two options.
+
++ --o [optional]: filename of the predicted frame. default: out.png, saving in the same directory of the input frames.
++ --gpuID [optional]: No of the GPU you want to use. default: gpuID = 0.
