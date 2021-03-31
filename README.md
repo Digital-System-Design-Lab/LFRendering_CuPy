@@ -19,8 +19,11 @@ The part of interpolation is based on pyTOFlow, so we need modules and files in 
 
 
 # Usage
+
+After 
+After downloading the https://github.com/Coldog2333/pytoflow, insert LFRendering_TOFlow_0326.py and M3DLF_S3(LightField photo folder) and run it.
 ```
-python LFRendering_CuPy.py --o path_out.jpg --gpuID 0
+python LFRendering_TOFlow_0326.py --o path_out.jpg --gpuID 0
 ```
 
 ## Options
